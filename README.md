@@ -14,10 +14,6 @@
 
 *Description*:
 
-**Task Description: Data Integration from Multiple Sources (General, 500 Words)**
-
----
-
 The purpose of this task is to demonstrate the process of **data integration** by combining data from multiple, distinct sources into a single, unified report using **Microsoft Power BI**. This is a fundamental capability in modern business intelligence, where organizations often deal with data that originates from various platforms, formats, and systems. In this particular case, the sources involved are **CSV (Comma-Separated Values)** and **JSON (JavaScript Object Notation)** files—two widely used and structurally different data formats.
 
 The objective is to build a **Power BI report** that brings these diverse data sources together in a coherent way, ensuring that they are not only successfully connected but also modeled and related appropriately to support meaningful visualizations and insights. The task showcases the ability to handle heterogeneous data formats, transform them as needed, and align them to support integrated analysis within a single reporting environment.
