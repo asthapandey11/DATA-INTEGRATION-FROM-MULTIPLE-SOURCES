@@ -34,6 +34,8 @@ This task is an essential demonstration of data preparation and integration skil
 
 Overall, the task highlights the practical challenges and solutions involved in working with multi-source data environments and serves as a foundation for more advanced analytics projects where data integration is a key step toward creating valuable business insights.
 
+**Note :** To obtain .json file, first run the python script.
+
 *OUTPUT*:
 
 <img width="1286" height="726" alt="image" src="https://github.com/user-attachments/assets/2d093e25-5a83-4f60-8fcb-e69b4d639ff9" />
